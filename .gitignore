@@ -1,0 +1,14 @@
+2010.11929.pdf
+archive.zip
+Beit.pdf
+Flower Petal.zip
+tfrecords-jpeg-192x192
+tfrecords-jpeg-192x192/*
+tfrecords-jpeg-224x224
+tfrecords-jpeg-224x224/*
+tfrecords-jpeg-331x331
+tfrecords-jpeg-331x331/*
+tfrecords-jpeg-512x512
+tfrecords-jpeg-512x512/*
+/*.csv
+*.bin
